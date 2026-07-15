@@ -1,0 +1,15 @@
+# Environments
+placement-module1/
+*.pyc
+__pycache__/
+
+# MLflow
+mlruns/
+
+# Data (large/generated — optional to track, your call)
+data/raw/*.json
+data/processed/*.json
+
+# OS/Editor
+.vscode/
+.DS_Store
