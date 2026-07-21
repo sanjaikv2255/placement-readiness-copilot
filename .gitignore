@@ -2,6 +2,7 @@
 placement-module1/
 *.pyc
 __pycache__/
+.env
 
 # MLflow
 mlruns/
